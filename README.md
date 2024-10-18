@@ -1,2 +1,1 @@
-# codebot
-Final bot supporting women empowerment
+# codebot2.0
